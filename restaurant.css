@@ -4,7 +4,7 @@ body {
 #one {
     border:groove 5px #000000;
     background:#D3D3D3;
-    width:25%;
+    width:50%;
     height:100px;
     padding:5px;
     margin:5px;
@@ -13,7 +13,7 @@ body {
 #two {
     border:groove 5px #000000;
     background:#D3D3D3;
-    width:25%;
+    width:50%;
     height:100px;
     padding:5px;
     margin:5px;
@@ -22,7 +22,7 @@ body {
 #three {
     border:groove 5px #000000;
     background:#D3D3D3;
-    width:25%;
+    width:50%;
     height:100px;
     padding:5px;
     margin:5px;
